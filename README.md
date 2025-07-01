@@ -20,7 +20,11 @@ Data Profiling: Conducted data profiling to ensure quality assurance and identif
 Removal of Unwanted Columns and Duplicates: Cleared out irrelevant columns and eliminated duplicate entries to refine the dataset.<br>
 <br>
 # Interactive DashBoard:
-https://github.com/user-attachments/assets/e4c3d026-5513-456d-b489-b8d0176420b7
+
+
+![Model view ss](https://github.com/user-attachments/assets/79e11df4-340c-48f2-a201-984b597ab5ad)
+
+
 
 
 # The Data Model 
