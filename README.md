@@ -17,15 +17,7 @@ Folder Data Import: Employed the "Folder" option to append multiple related data
 Data Trimming: Removed unnecessary whitespace from the dataset for cleaner data presentation.<br>
 Standardization: Standardized column names, date formats, and currency to maintain consistency throughout the dataset.<br>
 Data Profiling: Conducted data profiling to ensure quality assurance and identify any data anomalies on the entire dataset.<br>
-Removal of Unwanted Columns and Duplicates: Cleared out irrelevant columns and eliminated duplicate entries to refine the dataset.<br>
-<br>
-# Interactive DashBoard:
-
-
-https://github.com/user-attachments/assets/79e11df4-340c-48f2-a201-984b597ab5ad
-
-
-
+Removal of Unwanted Columns and Duplicates: Cleared out irrelevant columns and eliminated duplicate entries to refine the dataset.<br> <br>
 
 # The Data Model 
 ![Model view ss](https://github.com/user-attachments/assets/263e3612-049b-4a54-bbcd-27d3639d10e4)
@@ -66,7 +58,9 @@ A price adjustment parameter allows for testing how a 10% increase or decrease i
 
 <b>Geographic Orders Overview :
 ![Map ss](https://github.com/user-attachments/assets/82242e2a-438e-4c1c-951b-9683d0cd6b20)
-The map visualizes orders by continent, highlighting key regional insights. Over the years, the highest volume of orders 8,700 units was made in the USA, followed by Australia with 6060 units. In Europe, the United Kingdom leads with 2,771 orders, marking it as the region’s top market.
+The map visualizes orders by continent, highlighting key regional insights. Over the years, the highest volume of orders 8,700 units was made in the USA, followed by Australia with 6060 units. In Europe, the United Kingdom leads with 2,771 orders, marking it as the region’s top market.<br> <br>
 
+# Interactive DashBoard:
+https://github.com/user-attachments/assets/79e11df4-340c-48f2-a201-984b597ab5ad
 
 
