@@ -22,7 +22,7 @@ Removal of Unwanted Columns and Duplicates: Cleared out irrelevant columns and e
 # Interactive DashBoard:
 
 
-![Model view ss](https://github.com/user-attachments/assets/79e11df4-340c-48f2-a201-984b597ab5ad)
+https://github.com/user-attachments/assets/79e11df4-340c-48f2-a201-984b597ab5ad
 
 
 
