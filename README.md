@@ -2,7 +2,7 @@
 <br>
 <h2>Project Goal</h2> <br>
 The primary goal of the Adventure Works is to to track key performance indicators (KPIs), monitor and compare performance across different areas, identify key insights, and highlight high-value customers of Adventure Works from the year 2020 to 2022. <br>
-<br> About the project <br>
+<br> <h2>About the project</h2> <br>
 The project focuses on Adventure Works, a global manufacturing company that specializes in cycling products, including bikes, accessories, clothing, and components. In this project, I developed a comprehensive Power BI dashboard to help the management team track essential KPIs such as revenue, profit, orders, and returns from 2020 to 2022. The dashboard also provides tools to compare regional performance, analyze product trends, and identify high-value customers. <br>
  <br>
  <h2>The Data Set</h2> <br>
