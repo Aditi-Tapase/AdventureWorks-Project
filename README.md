@@ -18,6 +18,10 @@ Data Trimming: Removed unnecessary whitespace from the dataset for cleaner data 
 Standardization: Standardized column names, date formats, and currency to maintain consistency throughout the dataset.<br>
 Data Profiling: Conducted data profiling to ensure quality assurance and identify any data anomalies on the entire dataset.<br>
 Removal of Unwanted Columns and Duplicates: Cleared out irrelevant columns and eliminated duplicate entries to refine the dataset.<br>
+<br>
+# Interactive DashBoard:
+https://github.com/user-attachments/assets/e4c3d026-5513-456d-b489-b8d0176420b7
+
 
 # The Data Model 
 ![Model view ss](https://github.com/user-attachments/assets/263e3612-049b-4a54-bbcd-27d3639d10e4)
