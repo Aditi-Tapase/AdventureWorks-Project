@@ -24,7 +24,7 @@ Removal of Unwanted Columns and Duplicates: Cleared out irrelevant columns and e
 I established a downward flow data model to ensure a seamless connection between the fact tables and dimension tables. For this model, I employed a Star Schema for all tables, while a Snowflake Schema was utilized for the product Categories Lookup, Product SubCategories Lookup and Product Lookup. The relationships between the tables were established based on primary and foreign keys, adopting a one-to-many cardinality with a single cross-filter direction. Additionally, I designated the primary key in each table as the key column and hid all foreign keys to streamline the model and enhance clarity.
 # Insights  <br>
 After analyzing the Adventure Works dataset and conducting data cleaning, here are the key insights:
-<br>
+<br><br>
 <b>Executive : 
 ![Executive Dashboard ss](https://github.com/user-attachments/assets/799a56eb-f585-4406-be28-56eb6fde1578)
 From 2020 to 2022, Adventure Works achieved a total revenue of $24.9 million and a profit of $10.5 million from 25,200 orders, with a return rate of 2.17%. Within the four product categories, Bikes led in sales, with 13,929 units sold, generating $23.6 million in revenue and a profit of $9.7 million. In contrast, Accessories contributed $906,673 in revenue and a profit of $569,760 from a total of 17,000 units sold.
@@ -38,7 +38,7 @@ Over these years, Adventure Works experienced fluctuating revenue trends. Revenu
 <h3>Impact of COVID-19 on 2020 Revenue:</h3>
 During 2020, Adventure Works experienced a significant revenue drop, with Q3 revenue falling from $1.9 million in Q2 to $1.3 million, and then to $1.2 million in Q4. This decline was likely driven by the impacts of COVID-19 on customer spending and supply chains. Interestingly, despite this drop, Q3 saw a 15.92% increase in orders over Q2, highlighting strong demand but reduced profitability during the pandemic. However, beginning in Q1 2021, the revenue trend started to recover, showing a positive upward trajectory as market conditions stabilized and demand picked up.
 <br>
-2021 Bikes Performance Highlight: In 2021, the Bikes category sold 931 units, driving $1.6 million in revenue and generating $670,300 in profit for the year, demonstrating its critical role in the company's overall profitability.<br>
+2021 Bikes Performance Highlight: In 2021, the Bikes category sold 931 units, driving $1.6 million in revenue and generating $670,300 in profit for the year, demonstrating its critical role in the company's overall profitability.<br><br>
 
 <b>Customer Detail :
 ![Customer detail ss](https://github.com/user-attachments/assets/ae5c1caa-be9f-465a-a84a-af7259f8d842)
@@ -49,12 +49,12 @@ A review of revenue per customer over time reveals a downward trend. In February
 Among individual customers, Mr. Maurice Shan emerged as the top revenue contributor, generating $12,285 from six bike orders.
 <br>
 However, the average revenue per customer continued to decline, indicating that while the customer base is expanding, individual spending has decreased. This trend suggests a potential opportunity to focus on strategies aimed at increasing individual customer spending to drive higher revenue per customer.
-<br>
+<br><br>
 <b>Product Detail :
 ![Product detail ss](https://github.com/user-attachments/assets/8b4245ed-6525-4010-b635-dd10b3b48403)
 This report page serves as a drillthrough on product names, offering deeper insights into individual product performance. The gauges indicate that Adventure Works fell short of its monthly KPIs for the selected product, "Fender Set Mountain." A total of 200 orders were recorded, below the target of 242 orders. The product generated $8,946 in monthly revenue, missing the target of $11,000, while profit reached $5,600, also falling short of the $6,720 target.
 <br>
-A price adjustment parameter allows for testing how a 10% increase or decrease in the retail price would impact profit, providing a tool for strategic pricing decisions. Additionally, the product metric selection feature dynamically displays trends for the chosen metric over the years, helping to track long-term performance.<br>
+A price adjustment parameter allows for testing how a 10% increase or decrease in the retail price would impact profit, providing a tool for strategic pricing decisions. Additionally, the product metric selection feature dynamically displays trends for the chosen metric over the years, helping to track long-term performance.<br><br>
 
 <b>Geographic Orders Overview :
 ![Map ss](https://github.com/user-attachments/assets/82242e2a-438e-4c1c-951b-9683d0cd6b20)
