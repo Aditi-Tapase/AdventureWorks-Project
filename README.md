@@ -24,7 +24,7 @@ Removal of Unwanted Columns and Duplicates: Cleared out irrelevant columns and e
 I established a downward flow data model to ensure a seamless connection between the fact tables and dimension tables. For this model, I employed a Star Schema for all tables, while a Snowflake Schema was utilized for the product Categories Lookup, Product SubCategories Lookup and Product Lookup. The relationships between the tables were established based on primary and foreign keys, adopting a one-to-many cardinality with a single cross-filter direction. Additionally, I designated the primary key in each table as the key column and hid all foreign keys to streamline the model and enhance clarity.
 # Insights  <br>
 After analyzing the Adventure Works dataset and conducting data cleaning, here are the key insights:
-Executive : 
+<b>Executive : 
 ![Executive Dashboard ss](https://github.com/user-attachments/assets/799a56eb-f585-4406-be28-56eb6fde1578)
 From 2020 to 2022, Adventure Works achieved a total revenue of $24.9 million and a profit of $10.5 million from 25,200 orders, with a return rate of 2.17%. Within the four product categories, Bikes led in sales, with 13,929 units sold, generating $23.6 million in revenue and a profit of $9.7 million. In contrast, Accessories contributed $906,673 in revenue and a profit of $569,760 from a total of 17,000 units sold.
 <br>
@@ -39,7 +39,7 @@ During 2020, Adventure Works experienced a significant revenue drop, with Q3 rev
 <br>
 2021 Bikes Performance Highlight: In 2021, the Bikes category sold 931 units, driving $1.6 million in revenue and generating $670,300 in profit for the year, demonstrating its critical role in the company's overall profitability.
 
-Customer Detail :
+<b>Customer Detail :
 ![Customer detail ss](https://github.com/user-attachments/assets/ae5c1caa-be9f-465a-a84a-af7259f8d842)
 Adventure Works has built a customer base of 17,000, with an average revenue per customer of $1,431. The top customer segments by occupation include professionals, skilled manual workers, and management, reflecting strong engagement among these groups. Customers with an average income level contributed the most orders, totaling 11,600 units over the years.
 <br>
@@ -49,13 +49,13 @@ Among individual customers, Mr. Maurice Shan emerged as the top revenue contribu
 <br>
 However, the average revenue per customer continued to decline, indicating that while the customer base is expanding, individual spending has decreased. This trend suggests a potential opportunity to focus on strategies aimed at increasing individual customer spending to drive higher revenue per customer.
 <br>
-Product Detail :
+<b>Product Detail :
 ![Product detail ss](https://github.com/user-attachments/assets/8b4245ed-6525-4010-b635-dd10b3b48403)
 This report page serves as a drillthrough on product names, offering deeper insights into individual product performance. The gauges indicate that Adventure Works fell short of its monthly KPIs for the selected product, "Fender Set Mountain." A total of 200 orders were recorded, below the target of 242 orders. The product generated $8,946 in monthly revenue, missing the target of $11,000, while profit reached $5,600, also falling short of the $6,720 target.
 <br>
 A price adjustment parameter allows for testing how a 10% increase or decrease in the retail price would impact profit, providing a tool for strategic pricing decisions. Additionally, the product metric selection feature dynamically displays trends for the chosen metric over the years, helping to track long-term performance.
 
-Geographic Orders Overview :
+<b>Geographic Orders Overview :
 ![Map ss](https://github.com/user-attachments/assets/82242e2a-438e-4c1c-951b-9683d0cd6b20)
 The map visualizes orders by continent, highlighting key regional insights. Over the years, the highest volume of orders 8,700 units was made in the USA, followed by Australia with 6060 units. In Europe, the United Kingdom leads with 2,771 orders, marking it as the region’s top market.
 
