@@ -244,7 +244,7 @@ Strengthen market expansion efforts in high-performing regions such as the USA a
 
 # Dashboard Preview
 
-<"D:\Aditi\AdventureWorks Project\Recording.mp4"/>
+"D:\Aditi\AdventureWorks Project\Recording.mp4"
 
 ---
 
